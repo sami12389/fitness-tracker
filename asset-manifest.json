@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sami12389/fitness-/static/css/main.5c3165a8.css",
+    "main.js": "/sami12389/fitness-/static/js/main.398b98e3.js",
+    "static/media/banner.png": "/sami12389/fitness-/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/sami12389/fitness-/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/sami12389/fitness-/index.html",
+    "main.5c3165a8.css.map": "/sami12389/fitness-/static/css/main.5c3165a8.css.map",
+    "main.398b98e3.js.map": "/sami12389/fitness-/static/js/main.398b98e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c3165a8.css",
+    "static/js/main.398b98e3.js"
+  ]
+}
